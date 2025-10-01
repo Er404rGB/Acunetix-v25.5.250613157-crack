@@ -35,5 +35,6 @@
 
 ### Get Acunetix
 - Download the **Acunetix** v25.5.250613157 crack
+- Extract the archive using the password: **acunetixPWN**
 - Install it on your computer
 - Supports only the **Windows** operating system
