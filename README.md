@@ -1,4 +1,5 @@
-# ![Acunetix](https://img.shields.io/badge/Acunetix-Scanner-blue) Acunetix v25.5.250613157 - CRACK 🔐
+# ![Acunetix](https://img.shields.io/badge/Acunetix-Scanner-blue) 
+Acunetix v25.5.250613157 - CRACK 🔐
 
 [![Status](https://img.shields.io/badge/status-ready%20to%20use-brightgreen)]()
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)]()
